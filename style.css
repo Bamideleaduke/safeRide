@@ -155,6 +155,7 @@ margin-bottom: 3%;
     0 22.3px 17.9px rgba(0, 0, 0, 0.072),
     0 41.8px 33.4px rgba(0, 0, 0, 0.086),
     0 10px 8px rgba(0, 0, 0, 0.12);
+    transition: all 0.3s ease-in-out;
 }
 .card:hover{
     transform: scale(1.1);
